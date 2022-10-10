@@ -1,4 +1,4 @@
-//Rajone Telpha 10/10/2022
+//Rajone Telpha 10/10/22
 "use strict";
 
 class Workout {
